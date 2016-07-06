@@ -1,0 +1,8 @@
+.jumbotron { max-height: 200px; }
+.table{max-width: 600px;}
+
+table tr td a {
+    display:block;
+    height:100%;
+    width:100%;
+}
